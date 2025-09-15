@@ -1,4 +1,4 @@
-# Using Negative Edges in Graph Analysis  
+# Active Learning Graph Research 
 
 This repository contains research code exploring the role of **negative edges in graph-based learning and analysis**. Traditional graph methods often treat all edges as positive, but in many real-world datasets (e.g., social networks, biological systems, recommendation systems), **negative relationships** carry crucial information.  
 
